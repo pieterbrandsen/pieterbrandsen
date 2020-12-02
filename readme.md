@@ -11,4 +11,4 @@
 [![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
-  ![stats](https://github-readme-stats-eight-gamma.vercel.app/api?username=pieterbrandsen&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true)
+[![Stats](https://github-readme-stats.vercel.app/api?username=pieterbrandsen&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false)]
