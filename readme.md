@@ -1,4 +1,4 @@
-## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello! <img src="https://raw.githubusercontent.com/pieterbrandsen/pieterbrandsen/master/wave.gif" width="30px">
 
 - 💻 I'm learning JS, TS, C# and a little html/css
 - 💪 Currently working on a Screeps bot called [Pansiep](https://github.com/pieterbrandsen/Pansiep)
