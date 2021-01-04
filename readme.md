@@ -12,3 +12,9 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=pieterbrandsen&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false)
+
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pieterbrandsen&layout=compact&theme=dark)
+
+
+![Troph](https://github-profile-trophy.vercel.app/?username=pieterbrandsen&theme=monokai&margin-w=10")
