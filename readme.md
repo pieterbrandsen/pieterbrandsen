@@ -1,20 +1,49 @@
-## Hello! <img src="https://raw.githubusercontent.com/pieterbrandsen/pieterbrandsen/master/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/pieterbrandsen/pieterbrandsen/master/wave.gif" width="30px">
 
-- 💻 I'm learning JS, TS, C# and a little html/css
-- 💪 Currently working on a Screeps bot called [Pansiep](https://github.com/pieterbrandsen/Pansiep)
+## Stuff I know
 
-## Skills and tools ✏️
+### Languages
 
-[![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+- Javascript/Typescript
+- C#
+- Bit of python
+- Bit of HTML/CSS
 
-![Stats](https://github-readme-stats.vercel.app/api?username=pieterbrandsen&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false)
+### Software
 
+- Grafana
+- CI/CD
+- Ubuntu 22.04
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pieterbrandsen&layout=compact&theme=dark)
+### Databases
 
+- Postgres (relational)
+- Microsft SQL (relational)
+- Graphite (time series)
 
-![Troph](https://github-profile-trophy.vercel.app/?username=pieterbrandsen&theme=monokai&margin-w=10")
+## Projects I created/worked on
+
+### General
+
+### Data related
+
+- [Grafana-GoCarbon](https://github.com/pieterbrandsen/Grafana-GoCarbon)
+
+### Screeps
+
+- [Screeps user tracker](https://github.com/screepers/ScreepsUserTracker)
+- [Screeps performance server](https://github.com/screepers/ScreepsPerformanceServer)
+- [Screeps grafana V2](https://github.com/screepers/ScreepsGrafanaV2)
+- [The-International-Screeps-Bot](https://github.com/pieterbrandsen/The-International-Screeps-Bot)
+- [Screeps-LoAN](https://github.com/LeagueOfAutomatedNations/Screeps-LoAN)
+- [ScreepsMarketGetter](https://github.com/pieterbrandsen/ScreepsMarketGetter)
+- [Screeps error exporter](https://github.com/screepers/ErrorExporter)
+- [Screepsmod milestones history](https://github.com/The-International-Screeps-Bot/screepsmod-milestones-history)
+- [Screepsmod server stats](https://github.com/The-International-Screeps-Bot/screepsmod-server-stats)
+- [Screeps Bot V3](https://github.com/pieterbrandsen/Pansiep)
+- [Screeps Bot V2](https://github.com/pieterbrandsen/Panda-AI)
+- [Screeps Bot V1](https://github.com/pieterbrandsen/Old-Pansiep)
+
+## Small projects
+
+- [FolderMerger](https://github.com/pieterbrandsen/ConvertMultipleFoldersToOneForJSON)
